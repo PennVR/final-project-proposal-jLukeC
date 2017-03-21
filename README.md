@@ -9,6 +9,12 @@ Leigh McCloskey is a good example of an artist with some crazy works that would 
 
 ![Leigh Art 1](http://i.imgur.com/MV3t5.jpg)
 
+
+Four Second Frenzy with the Vive
+================================
+The idea of the game would be to quickly cycle through short minigames that force users to do things like shoot a target, perform cpr, find the object, toast bread, dodge a car, play the drum, get to an objective, etc. Could be a fun way to explore and apply a variety of VR game mechanics
+
+
 Music Visualizer
 ================
 The goal with this project would be to build a visual piece that people can just lose themselves in. Procedurally generate landscapes and visuals based on songs. Try to incorporate album art or music videos into the experience.
