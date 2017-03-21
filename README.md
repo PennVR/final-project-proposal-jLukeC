@@ -11,6 +11,8 @@ Music Visualizer
 ================
 The goal with this project would be to build a visual piece that people can just lose themselves in. Procedurally generate landscapes and visuals based on songs. Try to incorporate album art or music videos into the experience.
 
+Or like a 3d version of this project: [(Unseen Music) YUME](http://unseen-music.com/yume/)
+
 
 House Navigation
 ===============
