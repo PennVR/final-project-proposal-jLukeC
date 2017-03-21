@@ -7,6 +7,8 @@ Leigh McCloskey is a good example of an artist with some crazy works that would 
 [![Leigh McCloskey](http://img.youtube.com/vi/IjJk99sYOrY/0.jpg)](http://www.youtube.com/watch?v=IjJk99sYOrY)
 
 
+![Leigh Art 1](http://i.imgur.com/MV3t5.jpg)
+
 Music Visualizer
 ================
 The goal with this project would be to build a visual piece that people can just lose themselves in. Procedurally generate landscapes and visuals based on songs. Try to incorporate album art or music videos into the experience.
